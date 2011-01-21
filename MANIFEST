@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Sorauta-Util-Iterator.t
+lib/Sorauta/Util/Iterator.pm
+META.yml                                 Module meta-data (added by MakeMaker)
